@@ -91,7 +91,7 @@ def testone():
 
   # End program cleanly with keyboard
   except KeyboardInterrupt:
-    print "  Quit"
+    print ("  Quit")
 
 
 def testtwo():
@@ -107,7 +107,7 @@ def testtwo():
 
   # End program cleanly with keyboard
   except KeyboardInterrupt:
-    print "  Quit"
+    print ("  Quit")
 
 
 
@@ -124,4 +124,4 @@ if __name__ == "__main__": # execute only if run as a script
     print("    https://github.com/hevnsnt/monster")
     print("")
   except KeyboardInterrupt:
-    print "  Quit"
+    print ("  Quit")
