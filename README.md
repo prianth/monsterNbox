@@ -75,9 +75,7 @@ I love contributors! Please help out this project by replacing my crappy code wi
 * skiwithpete
 	* https://github.com/skiwithpete/relaypi
     * https://www.youtube.com/watch?v=OQyntQLazMU
-* jarame
-	* https://www.instructables.com/id/Monster-In-A-Box-Halloween-Prop-Part-1-The-Box-or-/
-    * https://www.instructables.com/id/Monster-In-A-Box-Halloween-Prop-Part-2-The-Guts/
+
 * Fritzing
 	* http://fritzing.org/home/
 * Fritzing Relay Parts
